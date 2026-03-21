@@ -26,14 +26,7 @@
 
 ---
 
-## ⚙️ Технологии
-![Vue](https://img.shields.io/badge/-Vue-green?style=for-the-badge&logo=vue.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-
----
-
- ### :hammer_and_wrench: Languages and Tools:
+ ### ⚙️ Технологии:
 </br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
