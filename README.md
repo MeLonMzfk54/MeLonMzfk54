@@ -63,12 +63,7 @@
 
 ## 📫 Контакты
 
-- Telegram: https://t.me/твой_ник
-- Email: твояпочта@gmail.com
+- Telegram: https://t.me/Txshi
+- Email: garifullin.tosha@gmail.com
 
 ---
-
-## 🚀 Проекты
-
-- 🔹 Project 1 — краткое описание
-- 🔹 Project 2 — краткое описание
