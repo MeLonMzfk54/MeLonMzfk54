@@ -14,16 +14,16 @@
 
 # 👋 Привет, я Антон
 
-💻 Ведущий Frontend-разработчик на проекте POS-кредитования 
-🚀 В основном работаю с Vue, Nuxt, TypeScript  
+💻 Ведущий Frontend-разработчик на проекте POS-кредитования </br>
+🚀 В основном работаю с Vue, Nuxt, TypeScript  </br>
 🎯 Сейчас фокус: развитие в техническом направлении 
 
 ---
 
 ## 🧠 О себе
-- 5+ лет в разработке
-- Закончил ВКИ НГУ
-- В свободное время занимаюсь музыкой, да и в целом жить без неё не могу
+👨‍💻 5+ лет в разработке </br>
+🎓 Закончил ВКИ НГУ </br>
+🎵 В свободное время занимаюсь музыкой, да и в целом жить без неё не могу
 
 ---
 
@@ -33,8 +33,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxt/nuxt-original.svg" title="Nuxt" alt="Nuxt " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
 </div>
 </br>
@@ -47,9 +47,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 </div></br>
 
 
