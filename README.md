@@ -18,17 +18,17 @@
 🚀 В основном работаю с Vue, Nuxt, TypeScript  </br>
 🎯 Сейчас фокус: развитие в техническом направлении 
 
----
+
 
 ## 🧠 О себе
 👨‍💻 5+ лет в разработке </br>
 🎓 Закончил ВКИ НГУ </br>
 🎵 В свободное время занимаюсь музыкой, да и в целом жить без неё не могу
 
----
 
- ### ⚙️ Технологии:
-</br>
+
+ # ⚙️ Технологии:
+ 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
