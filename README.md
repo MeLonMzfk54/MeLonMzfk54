@@ -45,7 +45,6 @@
 
 ### Также работал с
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="40" alt="Angular"/>
 </div>
 
