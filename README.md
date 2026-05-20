@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxt/nuxt-original.svg" width="40" alt="Nuxt"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" alt="Vue"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJs"/>
 </div>
 
